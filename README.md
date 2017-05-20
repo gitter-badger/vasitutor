@@ -1,6 +1,4 @@
-# VasiTutor
-VasiTutor is a free-open source learning education system for everyone.
-## What is VasiTutor
-VasiTutor is an opensource LMS including:
-* High quality education videos
-* Level-Graded pracrices and tests
+# ขอต้อนรับเข้าสู่กลุ่มพัฒนา VasiTutor ภาคภาษาไทย
+VasiTutor เป็นแหล่งการเรียนรู้แบบเปิดเสรี ที่ทุกคนสามารถร่วมกันสร้างสังคมดีๆได้
+## VasiTutor คืออะไร
+VasiTutor เป็นแหล่งการเรียนรู้แห่งใหม่ ที่ใครๆก็สามารถต่อยอดความรู้โดยไม่เสียค่าใช้จ่าย
