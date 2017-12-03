@@ -1,15 +1,9 @@
-# ขอต้อนรับเข้าสู่กลุ่มพัฒนา VasiTutor ภาคภาษาไทย
-VasiTutor เป็นแหล่งการเรียนรู้แบบเปิดเสรี ที่ทุกคนสามารถร่วมกันสร้างสังคมดีๆได้
-## VasiTutor คืออะไร
-VasiTutor เป็นเแหล่งการเรียนรู้ที่ทันสมัย ตอบโจทย์ Education 4.0 ได้อย่างลงตัว<br>
-เหมาะสำหรับนักเรียน ผู้ปกครอง ครู บุคคลาการทางการศึกษา และโรงเรียนต่างๆ<br>
-ใช้งานได้โดยไม่เสียค่าใช้จ่าย พัฒนาโดยคนไทย<br>
-### VasiTutor มีข้อดีอย่างไร
-  - สอนผ่านวิดิโอสั้นๆ สนุก กระชับ เข้าใจง่าย
-  - แบบฝึกหัดท้าท้ายผู้เรียน ด้วยแต้มสะสมรับสิทธิพิเศษต่างๆ
-  - เรียนได้ทุกที่ทุกเวลา ผ่านระบบออนไลน์
-  - เลือกเนื้อหาเองได้ ปรับระดับตามความสามารถและความเข้าใจ
-  - ครูและผู้ปกครองสามารถดูผลการทดสอบได้ทันทีหลังจากที่ผู้เรียนทำเสร็จ
-  - ลงทะเบียนฟรี ไม่เสียค่าใช้จ่าย
-## VasiTutor ยังอยู่ในระหว่างการปรับปรุง
-ท่านเองก็สามารถสนับสนุนสังคมการเรียนรู้ไทยได้ เลือกเมนู Wiki สำหรับข้อมูลเพิ่มเติม
+# We're just migrating from our server, contents may not complete...
+# VasiTutor Open Project
+VasiTutor Open Project is a project that have a mission to provide a free learning media, contents, practices and quizes
+Everyone can learn, test and educate themselves anywhere, anytime.
+
+## Getting Started
+Explore our wiki to findout how you can contribute VasiTutor!
+
+See issues for problems we're facing now.
